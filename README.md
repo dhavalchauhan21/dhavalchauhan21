@@ -1,4 +1,4 @@
-## Helo World 👋
+## Hello World 👋
 
 <h1 align="center">Hi 👋, I'm Dhaval Chauhan</h1>
 <h3 align="center">A passionate coder from India</h3>
