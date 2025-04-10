@@ -14,6 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dhavalchauhan21](https://github.com/dhavalchauhan21)
 
 - 📫 How to reach me **https://www.instagram.com/_chauhandhaval3140_/**
+                      **dhavalchohan9@gmail.com/** 
 
 - ⚡ Fun fact **I have a great humour,and I love singing too**
 
