@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 <h1 align="center">Hi 👋, I'm Dhaval Chauhan</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">"Driving Innovation with Smart Technology"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalchauhan21&label=Profile%20views&color=0e75b6&style=flat" alt="dhavalchauhan21" /> </p>
 
