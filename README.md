@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhavalc17016004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhavalc17016004" height="30" width="40" /></a>
-<a href="https://instagram.com/@_iblamedhaval3140_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_iblamedhaval3140_" height="30" width="40" /></a>
+<a href="https://instagram.com/@_chauhandhaval3140_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_iblamedhaval3140_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
